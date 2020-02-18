@@ -1,2 +1,3 @@
 # design-patterns
-Mise en pratique lors de la lecture de "Design Patterns - Tête la première"
+Lecture du livre de "Design Patterns - Tête la première".
+Implémentations en PHP
